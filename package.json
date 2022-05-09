@@ -1,0 +1,27 @@
+{
+  "name": "team-generator",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LILWill13/Team-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LILWill13/Team-generator/issues"
+  },
+  "homepage": "https://github.com/LILWill13/Team-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.3",
+    "jest": "^28.0.2"
+  }
+}
