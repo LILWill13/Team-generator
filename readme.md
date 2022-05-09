@@ -1,4 +1,4 @@
-# Note taker app
+# Team Informational Card Generator
 ## Description
 allows user to generate informational cards for each employee on a team.
 
